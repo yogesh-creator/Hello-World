@@ -1,3 +1,1 @@
-# hello-world
-Hi humans I am from the other planet.
-What about you?
+I would love to know about hello world.
